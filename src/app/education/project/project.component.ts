@@ -19,8 +19,8 @@ export class ProjectComponent implements OnInit {
       level: 'College',
       time: 'January/2021 - July/2021 ',
       application:'Web Devlopment',
-      link: 'https://parcare-parking-services.herokuapp.com/',
-      desc: 'It was my final year project. We have build a website for online car parking. In this, user could easy select the parking spot he/she desires to have. I was working as a full stack developer using Node.js(NPM). This will also help user to book parking in advance as well as in real time.'
+      link: 'https://parcare-parking-service.onrender.com/',
+      desc: 'It was my final year project. We have build a website for online car parking. In this, user could easy select the parking spot he/she desires to have. I was working as a full stack developer using Node.js(NPM). This will also help user to book parking in advance as well as in real time. To Search please enter Varanasi in the Search Tab.'
     },
     { ProjectName: 'Lusicous App',
       level: 'College',
@@ -33,7 +33,7 @@ export class ProjectComponent implements OnInit {
       level: 'College',
       time: 'March/2020 - July/2020 ',
       application: 'Web Development',
-      link: 'https://yelpcamp2811.herokuapp.com/',
+      link: '',
       desc: 'It was create as part of my Industrial Project Training. It is a fully functional website with use of Node.Js in the backend and MongoDB Atlas as Database. It is a simple website where user can register or login and add there respective camp sites where they have visited.'
     }
   ]
